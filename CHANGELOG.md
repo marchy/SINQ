@@ -1,5 +1,8 @@
 ## Changelog
 
+#### 0.7.0 - 2016/10/19
+** Swift 3.0 support**
+
 #### 0.6.0 - 2016/03/26
 ** Swift update release, including:**
 
